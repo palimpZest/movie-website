@@ -21,11 +21,11 @@ Useful to understand how:
 
 ## Project Specifications Rubric
 
-![Rubric](Link)
+![Rubric](https://cloud.githubusercontent.com/assets/19314291/16708611/2b0403f0-45c8-11e6-94b9-212cd935fbd9.png)
 
 ## Project Display Example
 
-![Example](Link)
+![Example](https://cloud.githubusercontent.com/assets/19314291/16708612/2e9e3418-45c8-11e6-9393-be4080308754.png)
 
 ## How To Use:
 
@@ -41,4 +41,4 @@ _(You may use Python 3, but keep in mind that it is not backwards compatible and
 
 ## Submission (Version 1.0)
 
-![My Version](link)
+![My Version](https://cloud.githubusercontent.com/assets/19314291/16708608/1ed1e44e-45c8-11e6-9828-bd059ef254c1.png)
